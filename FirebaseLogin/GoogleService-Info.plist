@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>136073283114-2bjtqqkv7aqqpdouamk31944h6m17llh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.136073283114-2bjtqqkv7aqqpdouamk31944h6m17llh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBiwA6PnZx7EqTgiYc9ZqfAhwNMQsMDf3Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>136073283114</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.codevinci.ceva.FirebaseLogin</string>
+	<key>PROJECT_ID</key>
+	<string>swiftfirebasedemo-75a98</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftfirebasedemo-75a98.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:136073283114:ios:9443d314f6ca4834</string>
+	<key>DATABASE_URL</key>
+	<string>https://swiftfirebasedemo-75a98.firebaseio.com</string>
+</dict>
+</plist>
